@@ -12,7 +12,7 @@ To compile:
 
 ```bash
   cd src
-  javac Program.java
+  javac *.java
 ```
 
 To run:
