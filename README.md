@@ -7,7 +7,7 @@ Since it is not expected to have vast amounts of recipes stored by a user, the a
 This application was fully written using the IntelliJ IDEA by JetBrains.
 
 ## Usage
-
+Make sure you have the Java Development Kit (JDK) installed on your system. This can be downloaded from the official Oracle website or use an OpenJDK distribution.
 To compile:
 
 ```bash
